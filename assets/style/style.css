@@ -1,1 +1,11 @@
 /* BASIC STYLES HERE */
+
+
+img {
+  max-height: 25vh;
+}
+
+.image-cover {
+  display: flex;
+  justify-content: center;
+}
